@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "675B85B7-2779-4B6D-8D53-68C7E3BA7E07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F5A37C0-343F-4A56-9E02-5201D9E4276A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB971DC3-211F-4BFD-9FEB-EC285D51E86A",
+    "height": 42,
+    "width": 240,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89EBB000-5188-45DF-B558-4E3A35FD646B",
+      "overrideName": "EA26F8A9-E1C1-49CE-AC03-B975FF050011_stringValue",
+      "value": "Dashboard"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E57FB574-FA2A-4F0F-A875-A8A3F5EA93F7",
+      "overrideName": "9B590CF2-7F59-4648-8C59-3E2073AF5DA4_symbolID",
+      "value": "C3463535-B98B-47DE-B29C-6D31F690ACEE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CFAD75D-7076-4F3B-89D1-B96A78ADCB00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8D9E6A8-9D95-428C-9FE8-657A35E78E85",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 583,
+  "clippingMaskMode": 0,
+  "do_objectID": "228401A4-2B93-4F1B-92BF-B88E62A9170F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 300,
+    "x": 684,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7A5382B9-AF32-499B-AC0B-79F78C41D050"
+    }
+  ],
+  "name": "_ / Atoms / Field / State / 03-Filled",
+  "nameIsFixed": true,
+  "originalObjectID": "FB6019B6-7289-4B20-B79C-151B439D22DC",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56265572-4D8D-4C1D-9410-EDE069EC6F20",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.edenvidal.states-for-sketch": {
+      "x-states-current-state": {
+        "UUID": "6E8EB906-30A8-45F8-A997-B305784BD1A3",
+        "title": "Initial State"
+      },
+      "x-states-default-state": {
+        "UUID": "6E8EB906-30A8-45F8-A997-B305784BD1A3",
+        "title": "Initial State"
+      },
+      "x-states-state-values": {
+        "6E8EB906-30A8-45F8-A997-B305784BD1A3": {
+          "frame": "{{6940, 0}, {300, 36}}",
+          "visible": 1
+        }
+      },
+      "x-states-states": [
+        {
+          "UUID": "6E8EB906-30A8-45F8-A997-B305784BD1A3",
+          "title": "Initial State"
+        }
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

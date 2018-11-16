@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F8F3467-5B68-4F0B-8F1C-70EAEAA5BF2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56BB6518-F8BE-427E-ADC1-7A17B2328992",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "348BEE22-BD67-4945-9A80-45FD25AEF1F3",
+    "height": 238,
+    "width": 509.0019570977025,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "🚦Field",
+  "nameIsFixed": true,
+  "originalObjectID": "5352FF2F-135E-4011-80F0-11126A3E0DF9",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "794233C5-C16A-4D8C-85C6-839CD423A553",
+      "opacity": 0.5
+    },
+    "do_objectID": "8FCF4351-3374-4314-8034-FCB8EA7FFE5F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56265572-4D8D-4C1D-9410-EDE069EC6F20",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerVertically": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_dab29f31-f801-4a98-82d9-5943e29bb86a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_019142f2-0db5-4878-ac56-b5fda3e2075d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.edenvidal.states-for-sketch": {
+      "x-states-state-values": {
+        "8E7E3D11-1252-4B21-BFB5-ABFEE05070DB": {
+          "frame": "{{0, 0}, {300, 36}}",
+          "visible": 1
+        },
+        "D2CE72D5-02EA-4DB7-8DDA-284734C5DD30": {
+          "frame": "{{0, 19}, {300, 36}}",
+          "visible": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

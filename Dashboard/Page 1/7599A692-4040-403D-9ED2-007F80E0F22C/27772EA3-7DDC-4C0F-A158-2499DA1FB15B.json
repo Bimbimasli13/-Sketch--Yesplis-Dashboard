@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "27772EA3-7DDC-4C0F-A158-2499DA1FB15B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "792DF69E-648E-4EB6-8349-AF0847A89E08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68F2BC96-4179-4AB2-9907-27151259D23A",
+    "height": 42,
+    "width": 240,
+    "x": 0,
+    "y": 197
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50C19BE9-6EF5-49DA-AC17-C6742076CA56",
+      "overrideName": "50AB597F-2745-43BD-9523-C976EED6DD59_stringValue",
+      "value": "Analytic"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "32234505-BE0B-49EA-8811-6856569F2888",
+      "overrideName": "BC7C333F-3588-43CD-907E-83FA951A8DF1_symbolID",
+      "value": "EC3C9665-DB17-471D-8E92-1F55BDD5FA40"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B297ED7-7DCB-44D1-996B-A338A06B8087",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "607F8AA6-4131-49F0-AE1B-925EF7BDBF75",
+  "verticalSpacing": 0
+}

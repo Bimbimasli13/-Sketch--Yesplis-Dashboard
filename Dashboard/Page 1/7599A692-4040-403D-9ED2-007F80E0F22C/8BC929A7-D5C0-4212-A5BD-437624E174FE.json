@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8BC929A7-D5C0-4212-A5BD-437624E174FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CD66B39-1B9E-4AB3-920A-26930D10F33A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E4CC58F-2328-4DCD-B25A-CEF4E98D00A8",
+    "height": 42,
+    "width": 240,
+    "x": 0,
+    "y": 239
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07978C34-F228-4126-A416-F7F216B0F0E0",
+      "overrideName": "50AB597F-2745-43BD-9523-C976EED6DD59_stringValue",
+      "value": "Manage Event Manager"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C484AE7E-550F-412E-B051-2CC303D92EBD",
+      "overrideName": "BC7C333F-3588-43CD-907E-83FA951A8DF1_symbolID",
+      "value": "A6A2F595-AF59-4D69-8BCD-9F480AA32F0D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5EA9E5E6-303F-492B-8701-C57E255DF7F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "607F8AA6-4131-49F0-AE1B-925EF7BDBF75",
+  "verticalSpacing": 0
+}

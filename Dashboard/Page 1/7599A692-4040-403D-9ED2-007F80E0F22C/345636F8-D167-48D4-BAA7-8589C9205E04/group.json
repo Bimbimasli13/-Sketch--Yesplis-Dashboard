@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "345636F8-D167-48D4-BAA7-8589C9205E04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78CCD7EF-7EC1-4D7F-968A-F4B49ACEFC53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1922DA90-F49E-4711-9964-46F8E706D714",
+    "height": 73,
+    "width": 245,
+    "x": 676,
+    "y": 421
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "55D866C1-16D2-47D3-9FA5-A2D9C470188C"
+    },
+    {
+      "class": "group",
+      "id": "1D88CF3B-811E-44C7-84C8-147E521955AF"
+    }
+  ],
+  "name": "Aligned Left Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69D619A7-5E54-46A2-B240-94CAA9649176",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

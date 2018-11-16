@@ -1,0 +1,258 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9490196078431372,
+    "do_objectID": "CA84382A-E03F-4CCC-862B-508FC4CC2B5F",
+    "green": 0.9490196078431372,
+    "red": 0.9490196078431372
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7599A692-4040-403D-9ED2-007F80E0F22C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E594A1C2-3538-431B-8D1A-1294BC05DC4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1051C56E-0753-4694-9ED3-38B55F6F0885",
+    "height": 1642,
+    "width": 1280,
+    "x": -1541,
+    "y": -1094
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "43C28011-D08F-4F63-BF18-07B199AECA89",
+    "guides": [
+      1907,
+      1509,
+      676,
+      931,
+      1185.001957097702
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3238947A-2009-4A64-8983-DCAA7CD3F1BA"
+    },
+    {
+      "class": "group",
+      "id": "AE28C1F9-3CF7-4430-81FA-FF443D5173ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0766A560-A083-4C46-95C0-00227062CDAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5A31487-A49A-4FE5-AC45-F65B4B445BC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27772EA3-7DDC-4C0F-A158-2499DA1FB15B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BC929A7-D5C0-4212-A5BD-437624E174FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D67F0055-7A29-4F93-B7F2-F1534B28EBEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA21BC6A-02F7-4609-8976-AF18FC904A4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58E6B9B4-13C5-4A3D-AB16-D36BF01ABFBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FC19D9C-DC6B-47BD-BDD9-8CD06275B277"
+    },
+    {
+      "class": "text",
+      "id": "A0E3C52C-5CCE-42C1-A883-1A090D06B3E6"
+    },
+    {
+      "class": "text",
+      "id": "25054E18-FE9B-413F-A488-59C26E7C1430"
+    },
+    {
+      "class": "text",
+      "id": "12A156B1-5C87-4157-A3C1-609536CA22B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "1C550B35-4295-484D-872C-6A4F22878838"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A5D6A90-99E3-4015-A803-AA1F9F6E6B5A"
+    },
+    {
+      "class": "text",
+      "id": "BE4753BC-ED0F-4A7F-90E6-48E6E64BFF47"
+    },
+    {
+      "class": "rectangle",
+      "id": "6FABB9D8-50F2-4D36-A0A7-EC28533C18D3"
+    },
+    {
+      "class": "group",
+      "id": "33FA9324-A44B-4512-B327-A9074CEBA74C"
+    },
+    {
+      "class": "group",
+      "id": "8596D8DA-A145-4953-93C4-BC5972A1A16A"
+    },
+    {
+      "class": "text",
+      "id": "6E4ED073-A1B3-4D8E-A87B-F258E08E06B9"
+    },
+    {
+      "class": "group",
+      "id": "8BE10D9F-7B68-4DFB-A569-C676FC84AAC0"
+    },
+    {
+      "class": "group",
+      "id": "97F2909E-4C3F-4095-9AC8-8F1EC73C1078"
+    },
+    {
+      "class": "group",
+      "id": "9D519AE6-0F28-441A-AC3A-BD628175B43C"
+    },
+    {
+      "class": "group",
+      "id": "FF659E7B-20F8-4AB6-81C1-D294719EAA79"
+    },
+    {
+      "class": "group",
+      "id": "345636F8-D167-48D4-BAA7-8589C9205E04"
+    },
+    {
+      "class": "group",
+      "id": "7C122073-F5DB-423F-86A7-EEAA6A1A74AB"
+    },
+    {
+      "class": "rectangle",
+      "id": "EF3EB358-02C5-48D4-A5B0-9F048F0580EE"
+    },
+    {
+      "class": "text",
+      "id": "05F9B0DA-9BB7-4E04-AC6B-F08926A1639E"
+    },
+    {
+      "class": "text",
+      "id": "21657C4D-FCEB-48B5-A1CB-47369E0FE5B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E01623E-5769-4227-844D-4D05D391E140"
+    },
+    {
+      "class": "group",
+      "id": "B89C7017-17BF-496A-A654-B12C87962F3F"
+    },
+    {
+      "class": "group",
+      "id": "C9C23ECF-6C70-4962-896E-68C58B36F8B7"
+    },
+    {
+      "class": "rectangle",
+      "id": "A559A004-6C6B-424B-9922-5342F946AA8B"
+    },
+    {
+      "class": "group",
+      "id": "856A4123-D7DB-4E1D-810D-DF486F8B9FFF"
+    },
+    {
+      "class": "text",
+      "id": "7FC1DFC9-8AC4-4933-A7EA-D8F8477F0EED"
+    },
+    {
+      "class": "group",
+      "id": "4DA1FC26-0155-4278-B89D-48D302CD1D77"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "BC9AF2C6-FF9B-4ADE-A517-A525C627F728",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "1-1-0 Create Event",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1200,
+    "name": "Custom Preset",
+    "offersLandscapeVariant": 0,
+    "width": 1200
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82BC7C90-04AC-4E4C-B4CD-E8A34B1A98B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3808C992-F303-477C-9A38-F56BA00FD069",
+    "guides": [
+      1559,
+      1530,
+      -1927,
+      -1483,
+      1314
+    ]
+  }
+}

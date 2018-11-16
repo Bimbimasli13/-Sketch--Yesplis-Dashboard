@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE0FDD1F-899B-4261-B87A-79E8863F8C24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07741ABC-90E9-4B01-AB25-7F085D010537",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C6DE244-4D11-4C73-9219-B07E54993BAA",
+    "height": 45,
+    "width": 245,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C96C8406-2C88-413E-BE86-C728ACDB7989"
+    }
+  ],
+  "name": "🚦Field",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "463DF6A2-470F-47D4-8D51-414585B3399B",
+      "opacity": 0.5
+    },
+    "do_objectID": "0B852C50-0473-47A3-8319-0AB390C20BE4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerVertically": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_dab29f31-f801-4a98-82d9-5943e29bb86a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_019142f2-0db5-4878-ac56-b5fda3e2075d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.edenvidal.states-for-sketch": {
+      "x-states-state-values": {
+        "8E7E3D11-1252-4B21-BFB5-ABFEE05070DB": {
+          "frame": "{{0, 0}, {300, 36}}",
+          "visible": 1
+        },
+        "D2CE72D5-02EA-4DB7-8DDA-284734C5DD30": {
+          "frame": "{{0, 19}, {300, 36}}",
+          "visible": 1
+        }
+      }
+    }
+  }
+}
