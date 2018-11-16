@@ -1,0 +1,151 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA1C305E-C0D8-4CAF-B75D-FE2808E01F13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6870472-2A78-42CE-B1C1-76BAD2160438",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C6E1C67E-855D-47AB-B8CE-9113C5F10809",
+    "height": 23.99999999999999,
+    "width": 53.82936678408799,
+    "x": 37.99410029498525,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6D2D2855-845D-4046-ABE7-F3A7937DF088"
+    },
+    {
+      "class": "shapePath",
+      "id": "0CF2D32F-F8C9-4CDD-8B6A-EDB8325EB58F"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D4B1E3B-2270-4B11-A525-D6122684227D"
+    },
+    {
+      "class": "shapePath",
+      "id": "DCAC34F8-E03C-4CC9-9A91-06F55851F738"
+    },
+    {
+      "class": "shapePath",
+      "id": "2DD4069F-F939-4682-B6DA-D9FA3295F86C"
+    },
+    {
+      "class": "shapePath",
+      "id": "A5C6977D-E729-4DD4-B520-7D28A0D2A3F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B8EFA0C-AAD1-41C4-AD1D-E8AAEB7FAC0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "B49FDCD0-F760-447F-8287-4892B191E69F"
+    },
+    {
+      "class": "shapePath",
+      "id": "46ED8038-B68C-41D5-A11F-668EE53C5C8B"
+    },
+    {
+      "class": "shapePath",
+      "id": "32D139DD-F980-4123-B60E-A8B30E9DCE16"
+    }
+  ],
+  "name": "yesplis copy 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BDD2D3C1-0FB3-4240-AD49-19029BE425A3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.694736842105263,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "26FBBD62-99D5-4287-A21C-482E650D5520",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "8A60D918-7FF7-4829-B3BF-EC82F85664B3",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5725490196078431,
+          "green": 0.2313725490196079,
+          "red": 0.2823529411764705
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Qhytsdakx",
+            "size": 100
+          }
+        },
+        "kerning": 2,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

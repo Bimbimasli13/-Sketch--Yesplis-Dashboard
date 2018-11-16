@@ -1,10 +1,11 @@
 {
-  "_class": "page",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "350DE37D-6245-4011-BD88-C2848F4D4156",
+  "do_objectID": "F0D6A5B8-C948-4202-B103-1FAD61FEB711",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "080EAA23-2E54-4588-8710-FE0611DB75CE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,20 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "do_objectID": "0D2A3A43-5A5A-4D77-99B6-9E947380309F",
+    "height": 30,
+    "width": 127,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -37,23 +32,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "9108B79B-9A38-402D-BDCA-5124CE244163"
+      "class": "text",
+      "id": "D0690709-CA00-4002-9442-A7864555EDF6"
     },
     {
-      "class": "artboard",
-      "id": "56D87BA3-0BBB-4AF3-8B3E-50C41F046075"
-    },
-    {
-      "class": "artboard",
-      "id": "C6976382-516C-426F-AFA4-A6C7D3A65D4E"
-    },
-    {
-      "class": "artboard",
-      "id": "7599A692-4040-403D-9ED2-007F80E0F22C"
+      "class": "text",
+      "id": "FBCDB74D-2B71-4A8D-80C3-E77131D70CAE"
     }
   ],
-  "name": "Page 1",
+  "name": "Group 8",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -61,15 +48,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E33BC7DE-D724-482B-81E3-E4353E947D3F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "350DE37D-6245-4011-BD88-C2848F4D4156",
+  "do_objectID": "0DD7982F-FCFD-4E31-8C42-6CCBCCDE4074",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "DFC4FA42-B255-414D-995E-01D882757B40",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,45 +16,39 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "do_objectID": "249722B7-E248-4F28-82F2-1693BE31DEB8",
+    "height": 60,
+    "width": 1040,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "9108B79B-9A38-402D-BDCA-5124CE244163"
+      "class": "rectangle",
+      "id": "249B11ED-D60C-4ACF-9642-71A8C2DC2ADB"
     },
     {
-      "class": "artboard",
-      "id": "56D87BA3-0BBB-4AF3-8B3E-50C41F046075"
+      "class": "group",
+      "id": "73241162-1586-493E-A85B-066C0AB8B934"
     },
     {
-      "class": "artboard",
-      "id": "C6976382-516C-426F-AFA4-A6C7D3A65D4E"
+      "class": "group",
+      "id": "A23E142A-A30C-412A-98FE-1A43EF40B615"
     },
     {
-      "class": "artboard",
-      "id": "7599A692-4040-403D-9ED2-007F80E0F22C"
+      "class": "group",
+      "id": "C8E0EC06-E5A4-418B-BC66-BE001C4055F7"
     }
   ],
-  "name": "Page 1",
+  "name": "Group 18",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -61,15 +56,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "8952A6D0-6699-41FD-9AF1-6D76F2D9D34D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
