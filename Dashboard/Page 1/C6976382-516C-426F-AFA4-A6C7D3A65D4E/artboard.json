@@ -56,6 +56,10 @@
     },
     {
       "class": "rectangle",
+      "id": "57C10787-4900-4F96-AC34-1A0DA7EA531A"
+    },
+    {
+      "class": "rectangle",
       "id": "6E556BDD-0A9D-4CC6-8712-CC52B4993D94"
     },
     {
@@ -83,7 +87,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {
